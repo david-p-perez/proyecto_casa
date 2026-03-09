@@ -1,0 +1,1 @@
+# Informacion para la profe: No se mucho de html ni js. probablemente por eso haya algun error en el codigo o cosas que se repitan pero espero que sea un buen trabajo en lo que eztamos evaluando que es el conocimiento de git. Cualquier comentario extra que pueda dejar por este medio lo agradeceria bastante.
